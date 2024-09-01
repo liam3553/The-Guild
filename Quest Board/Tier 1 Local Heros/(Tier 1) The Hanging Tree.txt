@@ -1,0 +1,12 @@
+Title: The Hanging Tree
+Tier 1 quest
+
+Main Quest: Retrieve Erzal's family crest
+Reward: 50 gp; 7 gems worth 10 gp each; Roll 2 times on Magic Item Table B
+Other: None
+
+Subquest A: Retrieve Erzal's crest without combat
+Reward: Roll 1 time on Magic Item Table F
+
+Client: Disgraced soldier Erzal
+Details: The Ivory Throne is a band of mercenaries led by Raskovar, Dohma of the Ivory Throne. They operate out of a tavern called the Hanging Tree. They took my family's crest when I joined decades ago. Please, retrieve the crest and restore my family's honor!
