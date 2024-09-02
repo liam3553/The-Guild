@@ -1,9 +1,0 @@
-Title: Gnomengarde
-Tier 1 quest
-
-Main Quest: Obtain at least one magic item from the gnomes
-Reward: Any magical items discovered during the quest, and each useful piece can be traded for 50 gp
-Other: None
-
-Client: Harbin Wester, Phandalin Townmaster
-Details: A clan of reclusive rock gnomes resides in a small network of caves in the Sword Mountains. The gnomes of Gnomengarde are known for their magical inventions, and they might have something with which to defeat the dragon. Get whatever you can from them. If you bring back something useful and don't want to keep it for yourselves, I will pay you 50 gp for it.
