@@ -5,9 +5,9 @@
 **Quest Type:** Investigation and Elimination  
 **Client:** Mayor Ormond of Orlane  
 **Location:** Village of Orlane and the surrounding swamp  
-**Quest Level:** Urgent ★ (Tier 1) 
+**Quest Level:** Urgent ★ (Tier 1)  
 **Time Limit:** Begin immediately  
-**Reward:** 500 gold pieces, plus a boon from the Church of Pelor for each party member 
+**Reward:** 500 gold pieces, plus a boon from the Church of Pelor for each party member  
 **Failure Conditions:**  
 - Party incapacitation  
 - Failure to dismantle the cult

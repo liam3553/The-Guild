@@ -20,10 +20,6 @@ This section outlines details regarding the quests available on the quest board.
 Each quest entry has a title, a tier, a main quest objective, a reward, a client, and a description. Sometimes, a quest will have optional subquest objectives that can be completed for additional rewards. To complete a quest, the main objective must be completed. Upon completion of a quest, the party will be rewarded with coinage, magic items, and special unlockables to be distributed between the party unless otherwise noted. An example of a special unlockable is a discount at the between-quest shops.
 
 
-### Accepting a quest
-To post a quest, simply select a quest from the quest board, gather your party, and inform your DM that you would like to accept a quest. Once the quest is accepted, a date and time can be determined for a session to complete the quest.
-
-
 ### Quest Tiers
 There are four tiers of quests. The list of currently available guild quests has tier information. Each tier corresponds to the following range of character levels
 - Tier 1: 1-4
@@ -31,6 +27,10 @@ There are four tiers of quests. The list of currently available guild quests has
 - Tier 3: 11-16
 - Tier 4: 17-20
 Caution: Quests are balanced for party size, but not party level. E.g., a party of one Lvl 3 character will have an easier quest than a party of four Lvl 3 characters. However, a party of four Lvl 1 characters will have the exact same quest as a party of four Lvl 5 characters.
+
+
+### Accepting a quest
+To accept a quest, simply select a quest from the quest board, gather your party, and inform your DM that you would like to accept a quest. Once the quest is accepted, a date and time can be determined for a session to complete the quest. A character may accept a quest in the current tier and any lower tiers. Quests are indefinitely repeatable.
 
 
 ## Player characters
@@ -42,9 +42,9 @@ You may create as many characters as you like. Only character races, classes, an
 
 
 ### Character advancement
-Your character advances in level after the number of quests equal to their tier level (e.g., a Tier 1 character levels up after one quest, a Tier 2 character levels up after 2 quests). Your character advances in tier once both of the following are complete:
+Your character advances in level after the number of quests equal to their tier level (e.g., a Tier 1 character levels up after one quest, a Tier 2 character levels up after 2 quests). Your character advances in tier once both of the following conditions are met:
 - They are the minimum level of the next tier
-- The urgent quest of the current tier is completed. Note: The urgent quest can be accepted at any level within that tier.
+- The urgent quest of the current tier is completed
 
 
 ## Between quests
