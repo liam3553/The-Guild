@@ -1,0 +1,3 @@
+# Mystery Building
+
+In the northeast part of Ukuku Prairie lies a building made of sandstone, encrusted with red, blue, and green rocks. Two ten-foot-tall conch shells protrude from the building at awkward angles, also locked in place as part of the buildings construction. The front door has no doorknob or keyhole and is tightly shut...

@@ -25,7 +25,7 @@ There are four tiers of quests. The list of currently available guild quests has
 - Tier 1: 1-4
 - Tier 2: 5-10
 - Tier 3: 11-16
-- Tier 4: 17-20
+- Tier 4: 17-20  
 Caution: Quests are balanced for party size, but not party level. E.g., a party of one Lvl 3 character will have an easier quest than a party of four Lvl 3 characters. However, a party of four Lvl 1 characters will have the exact same quest as a party of four Lvl 5 characters.
 
 
